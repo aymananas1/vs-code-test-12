@@ -1,0 +1,4 @@
+Today I learned:
+- How to create a folder
+- How to create README.md
+- How to save files
